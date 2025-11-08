@@ -6,22 +6,21 @@
 
 ---
 
-### 👋 About Me
-- 🐎 エリカエクスプレスを推し  
-- 💻 Pythonまったくわからん🫠  
-
+### 👋 私について知りたいですか？そうでもない？そうですか...
+- 🐎 エリカエクスプレス推し  
+- 💻 Pythonまったくわからん🫠
 ---
 
-### 🧰 私とは？
+### 🧰 ぎじゅつ
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
 ---
 
-### 🏆 主なプロジェクト
+### 🏆 めいんなプロジェクト
 
-|  Project | 💡 Description | 🐴 Status |
+|  ぷろじぇくと | 💡 せつめぇー | 🐴 びこう |
 |:-----------|:---------------|:----------|
 | [Belka Keiba Note](https://github.com/username/BelkaKeibaNote) | 競馬予想サイト📔  | privateだよ！？ |
 
